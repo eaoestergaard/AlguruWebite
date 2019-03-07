@@ -1,4 +1,4 @@
-baseURL = "http://alguru.netlify.com/"
+baseURL = "https://alguru.netlify.com/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
 title = "Meghna"
@@ -104,7 +104,7 @@ custom_css = ["css/custom.css"]
     # footer
     [params.footer]
         copyright = "Themefisher Team"
-        copyrightURL = "http://www.themefisher.com"
+        copyrightURL = "https://www.themefisher.com"
 
         # social Icons
         [[params.footer.socialIcon]]
